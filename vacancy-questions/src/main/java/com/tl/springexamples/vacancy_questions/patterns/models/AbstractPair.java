@@ -1,4 +1,4 @@
-package com.tl.springexamples.patterns.models;
+package com.tl.springexamples.vacancy_questions.patterns.models;
 
 import java.util.Objects;
 

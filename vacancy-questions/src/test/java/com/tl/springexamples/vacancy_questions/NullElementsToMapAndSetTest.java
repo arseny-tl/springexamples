@@ -1,6 +1,6 @@
-package com.tl.springexamples;
+package com.tl.springexamples.vacancy_questions;
 
-import com.tl.springexamples.model.SampleElementWithSameHashcode;
+import com.tl.springexamples.vacancy_questions.model.SampleElementWithSameHashcode;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;

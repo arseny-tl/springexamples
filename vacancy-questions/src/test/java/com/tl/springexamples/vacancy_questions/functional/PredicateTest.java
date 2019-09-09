@@ -1,6 +1,6 @@
-package com.tl.springexamples.functional;
+package com.tl.springexamples.vacancy_questions.functional;
 
-import com.tl.springexamples.model.Product;
+import com.tl.springexamples.vacancy_questions.model.Product;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;

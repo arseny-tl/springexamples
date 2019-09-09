@@ -1,4 +1,4 @@
-package com.tl.springexamples;
+package com.tl.springexamples.vacancy_questions;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
