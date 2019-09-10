@@ -11,7 +11,7 @@
 
   <modules>
     <module>vacancy-questions</module>
-    <module>jwt-example</module>
+    <module>jwt</module>
   </modules>
 
   <parent>
