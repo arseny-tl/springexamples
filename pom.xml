@@ -12,6 +12,7 @@
   <modules>
     <module>vacancy-questions</module>
     <module>jwt-example</module>
+    <module>library-inheritance</module>
   </modules>
 
   <parent>
